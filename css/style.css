@@ -12,10 +12,16 @@ main {
     color: black;
 }
 
-.sidebar {
+#sidebar {
     background-image: url(../img/sidebar-bg.png);
+    min-height: 92vh;
 }
 
 .topbar {
     height: 6rem;
+}
+
+#user {
+    position: absolute;
+    bottom: 0;
 }
