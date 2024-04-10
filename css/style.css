@@ -1,0 +1,21 @@
+header {
+    background-color: #F8F9FA;
+    height: 8vh;
+}
+
+main {
+    background-color: yellow;
+    height: 92vh;
+}
+
+.nav-link {
+    color: black;
+}
+
+.sidebar {
+    background-image: url(../img/sidebar-bg.png);
+}
+
+.topbar {
+    height: 6rem;
+}
