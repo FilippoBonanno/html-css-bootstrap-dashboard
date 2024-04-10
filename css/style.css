@@ -4,7 +4,6 @@ header {
 }
 
 main {
-    background-color: yellow;
     height: 92vh;
 }
 
@@ -24,4 +23,5 @@ main {
 #user {
     position: absolute;
     bottom: 0;
+    
 }
